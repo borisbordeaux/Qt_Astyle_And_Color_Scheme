@@ -12,7 +12,7 @@ Now go in the settings to define the config for the Artistic Style beautifier
 `Tools -> options... -> Beautifer -> Artistic Style`  
 For simplicity, place the `.astylerc` file in your home directory  
 Then check the checkbox `Use the file .astylerc or astylerc in /home/user`  
-More over you can set a keyboard shortcut to format the current file in the editor  
+Moreover you can set a keyboard shortcut to format the current file in the editor  
 `Tools -> Options... -> Environment -> Keyboard -> ArtisticStyle -> FormatFile`
 
 ## How to use the color scheme
